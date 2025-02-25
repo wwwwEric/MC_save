@@ -1,0 +1,17 @@
+{
+	id: "ec561538-f3fd-461d-aff5-086b22154bce"
+	type: "player"
+	player_name: "Alex"
+	ranks: {
+		ec561538-f3fd-461d-aff5-086b22154bce: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Alex"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

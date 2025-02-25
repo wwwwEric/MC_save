@@ -1,0 +1,159 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "craemon:player_head_drops": {
+    "criteria": {
+      "tick": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-02-25 08:28:24 +0800"
+    },
+    "done": true
+  },
+  "global:stonecutter_damage": {
+    "criteria": {
+      "requirement": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-02-25 08:28:24 +0800"
+    },
+    "done": true
+  },
+  "gurkis:gardenersdream": {
+    "criteria": {
+      "requirement": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "rpg_classes:root": {
+    "criteria": {
+      "always": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "gurkis:root": {
+    "criteria": {
+      "requirement": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "beautify:progression/root": {
+    "criteria": {
+      "Install": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:plushables/root": {
+    "criteria": {
+      "root": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-25 08:28:24 +0800"
+    },
+    "done": true
+  },
+  "craemon:main": {
+    "criteria": {
+      "tick": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "gardenersdream:root": {
+    "criteria": {
+      "requirement": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "global:un_pogaz": {
+    "criteria": {
+      "trigger": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2025-02-25 08:28:24 +0800"
+    },
+    "done": false
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2025-02-25 08:28:23 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

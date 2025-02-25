@@ -1,0 +1,17 @@
+{
+	id: "306f3ded-e94a-4a30-9ce7-07f8507f925e"
+	type: "party"
+	owner: "00000000-0000-3004-998f-501a96e6cbb7"
+	ranks: {
+		00000000-0000-3004-998f-501a96e6cbb7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "eric's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C2"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1740327919232L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"eric\"}]}" }]
+	extra: { }
+}
