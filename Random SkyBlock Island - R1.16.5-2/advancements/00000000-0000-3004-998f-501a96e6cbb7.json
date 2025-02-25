@@ -12384,12 +12384,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_rich_soil": {
-    "criteria": {
-      "get_rich_soil": "2025-02-25 07:44:47 +0800"
-    },
-    "done": true
-  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-02-25 07:27:58 +0800"
@@ -12402,9 +12396,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/summon_iron_golem": {
+  "aquamirae:adventure/root": {
     "criteria": {
-      "summoned_golem": "2025-02-25 08:16:30 +0800"
+      "crafting_table": "2025-02-25 07:27:58 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-02-25 07:44:47 +0800"
     },
     "done": true
   },
@@ -12420,9 +12420,9 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
+  "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "crafting_table": "2025-02-25 07:27:58 +0800"
+      "summoned_golem": "2025-02-25 08:16:30 +0800"
     },
     "done": true
   },
